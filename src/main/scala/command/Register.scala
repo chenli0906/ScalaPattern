@@ -1,4 +1,4 @@
-package command
+package Command
 
 /**
   * Created by LeoChen on 2015/11/12.
