@@ -1,4 +1,4 @@
-package com.zte.bigdata.vmax.app.advanced.etl
+package Iterator
 
 /**
   * Created by 10170216 on 2015/11/30.
